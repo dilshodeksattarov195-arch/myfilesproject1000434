@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpereave",
+        "uuid": 3467660,
+        "checksum": "8ne41g"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
